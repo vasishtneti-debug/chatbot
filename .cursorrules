@@ -1,0 +1,6 @@
+This is a Next.js 14 app with TypeScript and Supabase.
+- Use the App Router (app/ directory), not pages/
+- API keys are always server-side only (no NEXT_PUBLIC_ on secrets)
+- Use async/await, not .then()
+- Keep components in /components, API routes in /app/api/
+- Always handle errors with try/catch
