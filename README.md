@@ -7,4 +7,4 @@ Full stack chatbot built with next.js, supabase, and claude API.
 - **Backend** — next.js API routes
 - **Database** — supabase storing chat history
 - **AI** — Anthropic Claude API (no credits)
-- **Deploy** — Vercel (deploying in 4 days due to issue in account)
+- **Deploy** — Vercel App Live URL:https://chatbot-pink-sigma-77.vercel.app/
